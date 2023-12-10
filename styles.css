@@ -222,4 +222,12 @@ input[type="submit"]:hover {
     h1, h2, h4 {
         padding-left: 100px;
     }
+
+    form {
+        width: 100%;
+    }
+
+    .icons {
+        transform: translateY(-100%);
+    }
 }
